@@ -1,7 +1,7 @@
 # Serverless Stack Client
 A simple note taking app called Scratch. It is a single page application powered by a serverless API written completely in JavaScript. This is the complete source for the frontend. The frontend code is located at [Serverless Stack API](https://github.com/nphaxayaseng/serverless-stack-api).
 
-###REQUIREMENTS
+### REQUIREMENTS
 * Should allow users to signup and login to their accounts
 * Users should be able to create notes with some content
 * Each note can also have an uploaded file as an attachment
@@ -13,7 +13,7 @@ A simple note taking app called Scratch. It is a single page application powered
 
 The app is deployed on the AWS Platform at <YourAWSUrl>
   
-###TECHNOLOGY SUMMARY
+### TECHNOLOGY SUMMARY
 * Lambda & API Gateway for our serverless API
 * DynamoDB for our database
 * Cognito for user authentication and securing our APIs
